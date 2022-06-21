@@ -1,18 +1,18 @@
 # JS-myintro
  This is my task on Introduction to Javascript in ZuriXI4G training. 
 
-##Buit with
+## Built with
  - Javascript
  - HTML
 
-##Live site URL
+## Live site URL
  https://moidz.github.io/JS-myintro/
 
-##Resources
+## Resources
  -w3schools
  -YouTube
  -ZuriTeam YouTube channel.
 
-##Acknowledgement
+## Acknowledgement
  -My training colleagues.
  -Zuri mentors.
