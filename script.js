@@ -1,6 +1,6 @@
-var myName = " Name: Odelotan Iyanuoluwa Dorcas";
-var myHeight = 'Height: 5ft.6';
-var myCountry = 'Country: Nigeria';
-document.getElementById("name").innerHTML = myName;
-document.getElementById("height").innerHTML = myHeight;
-document.getElementById("country").innerHTML = myCountry;
+var myName = "My name is Odelotan Iyanuoluwa Dorcas";
+var myHeight = 'I am 5ft.6 tall';
+var myCountry = "My Country is Nigeria";
+alert(myName);
+alert(myHeight);
+alert(myCountry);
